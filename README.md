@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tiaelhelou
-- 👀 I’m interested in Artificial Intelligence and Data Science
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Software Engineer
 - 🌱 I’m currently studying Computer Science at the Lebanese American University
 - 📫 How to reach me tia.elhelou@outlook.com
