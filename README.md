@@ -67,6 +67,8 @@
 
 [JupyterNotebook]: https://jupyter.org/
 
+[MySql]: https://www.mysql.com/products/workbench/
+
 [PythonIDLE]: https://www.python.org/
 
 [Ubuntu]: https://ubuntu.com/
