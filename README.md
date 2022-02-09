@@ -1,4 +1,4 @@
-# Hi there, I'm Tia - aka [tiaelhelou] 👋 
+# Hi there, I'm Tia El Helou 👋 
 
 ## I am a second year Computer Science Student at Lebanese American University.
 
