@@ -10,8 +10,9 @@
 
 ### Connect with me:
 
-[linkedin](./img/linkedin-light.svg)](www.linkedin.com/in/tia-elhelou#gh-light-mode-only)
-[linkedin](./img/linkedin-dark.svg)](www.linkedin.com/in/tia-elhelou#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](www.linkedin.com/in/tia-elhelou#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](www.linkedin.com/in/tia-elhelou#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ### Languages:
 
