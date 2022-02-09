@@ -10,9 +10,8 @@
 
 ### Connect with me:
 
-[![linkedin](./img/linkedin-light.svg)](www.linkedin.com/in/tia-elhelou#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](www.linkedin.com/in/tia-elhelou#gh-dark-mode-only)
-&nbsp;&nbsp;
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/tiaelhelou#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/tiaelhelou#gh-dark-mode-only)
 
 ### Languages:
 
@@ -56,7 +55,7 @@
 
 </details>
 
-[linkedin]: www.linkedin.com/in/tia-elhelou
+[linkedin]: https://www.linkedin.com/in/tiaelhelou
 
 [Java]: https://www.google.com/search?q=java+language&client=firefox-b-d&hl=en&sxsrf=APq-WBvDkWWfn5TedYiun5xLQdzvJxAMuQ%3A1644365932624&ei=bAgDYpXUJZH7sAfsgZmwBQ&ved=0ahUKEwiVuq26rPH1AhWRPewKHexABlYQ4dUDCA0&uact=5&oq=java+language&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIIxCwAxAnOgcIABBHELADOgcIABCwAxBDOgoIABDkAhCwAxgAOgwILhDIAxCwAxBDGAE6EgguEMcBENEDEMgDELADEEMYAToECC4QQzoECAAQCjoECCMQJzoECAAQQ0oECEEYAEoECEYYAVDBBFi_HWD3JWgBcAF4AIABzAGIAbQPkgEGMC4xMC4xmAEAoAEByAESwAEB2gEGCAAQARgJ2gEGCAEQARgI&sclient=gws-wiz
 
