@@ -19,7 +19,9 @@
 
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" style="padding-right:10px;" />][Python]
 
-[<img align="left" alt="SQL" width="26px" src="https://www.svgrepo.com/show/221326/mysql.svg" style="padding-right:10px;" />][SQL]
+[<img align="left" alt="SQL" width="26px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" style="padding-right:10px;" />][SQL]
+
+[<img align="left" alt="PHP" width="26px" src="https://www.svgrepo.com/show/354180/php.svg" style="padding-right:10px;" />][PHP]
 
 <br />
 <br />
@@ -76,4 +78,7 @@
 [phpMyAdmin]: https://www.phpmyadmin.net/
 
 [Access]: https://www.microsoft.com/en-ww/microsoft-365/access
+
+[PHP]: https://www.google.com/search?client=firefox-b-d&q=PHP
+
 
