@@ -1,6 +1,6 @@
 # Hi there, I'm Tia El Helou 👋 
 
-## I am a second year Computer Science Student at Lebanese American University.
+## I am a third year Computer Science Student at Lebanese American University.
 
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Software Engineer
 - 🥅 2022 Goals: Learn more about Artificial Intelligence and its major sub-fields
