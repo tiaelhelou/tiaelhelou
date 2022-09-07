@@ -42,6 +42,16 @@
 
 [<img align="left" alt="phpMyAdmin" width="26px" src="https://www.phpmyadmin.net/static/images/logo-og.png" style="padding-right:10px;" />][phpMyAdmin]
 
+[<img align="left" alt="Android Studio" width="26px" src="https://www.svgrepo.com/show/7115/android.svg" style="padding-right:10px;" />][Android Studio]
+
+[<img align="left" alt="Android Studio" width="26px" src="https://www.svgrepo.com/show/353913/ionic.svg" style="padding-right:10px;" />][Ionic Framework]
+
+[<img align="left" alt="Android Studio" width="26px" src="https://www.svgrepo.com/show/354987/figma.svg" style="padding-right:10px;" />][Figma]
+
+[<img align="left" alt="Android Studio" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right:10px;" />][Postman]
+
+[<img align="left" alt="Android Studio" width="26px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" style="padding-right:10px;" />][Visual Studio Code]
+
 [<img align="left" alt="Access" width="26px" src="https://www.svgrepo.com/show/373415/access.svg" style="padding-right:10px;" />][Access]
 
 
@@ -84,5 +94,15 @@
 [PHP]: https://www.google.com/search?client=firefox-b-d&q=PHP
 
 [PHP Laravel]: https://laravel.com/
+
+[Android Studio]: https://developer.android.com/docs
+
+[Ionic Framework]: https://ionicframework.com/docs
+
+[Figma]: https://www.figma.com/
+
+[Postman]: https://www.postman.com/
+
+[Visual Studio Code]: https://code.visualstudio.com/
 
 
