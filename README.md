@@ -23,6 +23,8 @@
 
 [<img align="left" alt="PHP" width="26px" src="https://www.svgrepo.com/show/354180/php.svg" style="padding-right:10px;" />][PHP]
 
+[<img align="left" alt="PHP Laravel" width="26px" src="https://www.svgrepo.com/show/353985/laravel.svg" style="padding-right:10px;" />][PHP Laravel]
+
 <br />
 <br />
 
@@ -80,5 +82,7 @@
 [Access]: https://www.microsoft.com/en-ww/microsoft-365/access
 
 [PHP]: https://www.google.com/search?client=firefox-b-d&q=PHP
+
+[PHP Laravel]: https://laravel.com/
 
 
