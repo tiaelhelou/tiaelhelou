@@ -23,7 +23,12 @@
 
 [<img align="left" alt="PHP" width="26px" src="https://www.svgrepo.com/show/354180/php.svg" style="padding-right:10px;" />][PHP]
 
-[<img align="left" alt="PHP Laravel" width="26px" src="https://www.svgrepo.com/show/353985/laravel.svg" style="padding-right:10px;" />][PHP Laravel]
+[<img align="left" alt="JavaScript" width="26px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" style="padding-right:10px;" />][JavaScript]
+
+[<img align="left" alt="HTML" width="26px" src="https://www.svgrepo.com/show/80703/html.svg" style="padding-right:10px;" />][HTML]
+
+[<img align="left" alt="CSS" width="26px" src="https://www.svgrepo.com/show/112589/css.svg" style="padding-right:10px;" />][CSS]
+
 
 <br />
 <br />
@@ -45,6 +50,8 @@
 [<img align="left" alt="Android Studio" width="26px" src="https://www.svgrepo.com/show/7115/android.svg" style="padding-right:10px;" />][Android Studio]
 
 [<img align="left" alt="Android Studio" width="26px" src="https://www.svgrepo.com/show/353913/ionic.svg" style="padding-right:10px;" />][Ionic Framework]
+
+[<img align="left" alt="PHP Laravel" width="26px" src="https://www.svgrepo.com/show/353985/laravel.svg" style="padding-right:10px;" />][PHP Laravel Framework]
 
 [<img align="left" alt="Android Studio" width="26px" src="https://www.svgrepo.com/show/354987/figma.svg" style="padding-right:10px;" />][Figma]
 
@@ -95,7 +102,7 @@
 
 [PHP]: https://www.google.com/search?client=firefox-b-d&q=PHP
 
-[PHP Laravel]: https://laravel.com/
+[PHP Laravel Framework]: https://laravel.com/
 
 [Android Studio]: https://developer.android.com/docs
 
@@ -106,5 +113,11 @@
 [Postman]: https://www.postman.com/
 
 [Visual Studio Code]: https://code.visualstudio.com/
+
+[JavaScript]: https://www.javascript.com/
+
+[HTML]: https://www.google.com/search?client=firefox-b-d&q=html
+
+[CSS]: https://g.co/kgs/nZRjbe
 
 
