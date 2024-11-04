@@ -2,8 +2,8 @@
 
 ## I am a 4th year Computer Science Student at Lebanese American University.
 
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Software Engineer
-- 🥅 2024 Goals: Learn more about Artificial Intelligence and its major sub-fields
+- 👀 I’m interested in Software Engineer, Artificial Intelligence, Machine Learning, Deep Learning and Data Science 
+- 🥅 2025 Goals: Become a Full Stack developer
 - ⚡ Fun fact: I dance, sing and bake
 - 📫 How to reach me tia.elhelou@outlook.com 
 
