@@ -65,6 +65,10 @@
 <br />
 <br />
 
+### Download:
+[![Download CV](https://img.icons8.com/ios-filled/50/000000/resume.png)](https://github.com/tiaelhelou/tiaelhelou/blob/main/Tia_El_Helou_resume.pdf)
+
+
 
 
 ---
